@@ -1,0 +1,38 @@
+{
+  "name": "Wendy Code",
+  "short_name": "Wendy Code",
+  "start_url": "https://blog.choipanwendy/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f890000",
+  "description": "Membahas tutorial seputar blogging, blogger tutorial, blogspot tutorial, widget dan tools gratis",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s48/20210805_135229.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s72/20210805_135229.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s96/20210805_135229.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s144/20210805_135229.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s168/20210805_135229.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s192/20210805_135229.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s512/20210805_135229.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

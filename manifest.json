@@ -1,10 +1,10 @@
 {
   "name": "Wendy Code",
   "short_name": "Wendy Code",
-  "start_url": "https://blog.choipanwendy/",
+  "start_url": "https://www.wendycode.com/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#f890000",
+  "theme_color": "#f89000",
   "description": "Membahas tutorial seputar blogging, blogger tutorial, blogspot tutorial, widget dan tools gratis",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-_OhXDohWYhA/YQuK96J1M-I/AAAAAAAAC7o/NqcBNtm43AIZ3JVGOsVcQUdZI6fydrWqACNcBGAsYHQ/s48/20210805_135229.png",
